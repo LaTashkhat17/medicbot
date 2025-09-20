@@ -28,8 +28,8 @@ pip install -r requirements.txt
 ### Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
 
 ```ini
-PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+PINECONE_API_KEY = "pcsk_5YbRJj_cVrsuq3xj6refqdDoj12XBM3M7JsRo993T5pZvGnyWCiFaQSaYaFmJhwHZic2f"
+OPENAI_API_KEY = "4tq5NT3zw5E6lZltDYyP8SnT8vqMB1jKHm2MluutKLEjHrlYSnyXQ8cQuo_hJN1IMMeo7Nh4MbT3BlbkFJUzNQMFUXJtQfFhGr7pBR2NRVZGyC0W5xdQS6zqXhkSPftv9GbJqTmkNf88FzX6YJBrhkxcQ_QA"
 ```
 
 
